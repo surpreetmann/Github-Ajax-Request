@@ -1,0 +1,27 @@
+html, body {
+    margin: 0;
+    padding: 0;
+    min-height: 100%;
+
+
+}
+
+.bg {
+  background-image: url("Images/background.png");
+  height: 100%;
+}
+
+#btn-input-btn {
+    color: white;
+    background-color: #EB5757;
+    border: none;
+    border-radius: .3em;
+    font-weight: bold;
+
+}
+
+#img {
+    width: 100px;
+    height: auto;
+    border-radius: 10px;
+}
